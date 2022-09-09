@@ -785,6 +785,14 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="sen.go.kr">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="hdu.sen.go.kr">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
   <site url="udrims.dongguk.edu">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
